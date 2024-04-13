@@ -1,5 +1,5 @@
-# Lucidity-Assignment
-Delivery Route Optimizer
+# Delivery Route Optimizer
+
 
 # Introduction:
 The Delivery Route Optimizer is a Java application designed to efficiently determine the optimal path for food delivery from multiple restaurants to their corresponding customers, starting from a given source location. The program uses a greedy heuristic algorithm to sequentially choose the next best step based on minimal combined travel and preparation times.
